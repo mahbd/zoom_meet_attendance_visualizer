@@ -1,0 +1,6 @@
+/venv/
+/config.json
+/build/
+/dist/
+/zoom_meet_attendance_visualizer.egg-info/
+/.idea/
