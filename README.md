@@ -9,7 +9,7 @@ in config.json.
 ### How to use
 <ol>
 <li>Write this code, and you're ready to go. <br>
-<pre>from zoom-meet-attendance-visualizer.main import run_attendance_helper
+<pre>from zoom_meet_attendance_helper.main import run_attendance_helper
 
 run_attendance_helper()
 </pre>
